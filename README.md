@@ -1,10 +1,4 @@
-A continuació, es mostren les url corresponents a les publicacions:
+A continuació, es mostra la url corresponent a la visualització de la part 2 de la pràctica feta mitjançant d'Infogram:
 
-1) Heatmap
-https://public.tableau.com/app/profile/marc.llad.maldonado/viz/Heatmap_accidents_madrid_2023/Hoja5?publish=yes
+https://infogram.com/llado_marc-pra_part-2-1h1749wkl5ovl2z
 
-2) Radar chart:
-https://infogram.com/radar_chart_players-1h9j6q7gddlyv4g?live
-
-3) Ridgeline charts:
-https://rpubs.com/mlladomal/1176830
